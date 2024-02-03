@@ -1,5 +1,6 @@
 # Portfolio of Arfat Adhoni
 
+<img src="https://github.com/Arfat-Adhoni/Arfat_Adhoni_Portfolio/blob/main/arfatportfoliosnap.png" />
 
 This project was created with CRA (Create React App)
 
