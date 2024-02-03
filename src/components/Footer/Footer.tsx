@@ -11,8 +11,8 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://www.linkedin.com/in/mohammadarfat-adhoni-0b69921b8" className="logo">
-        <span>www.ArfatAdhoni.in</span>
+      <a href="https://arfatadhoni.netlify.app/" className="logo">
+        <span>arfatadhoni.netlify.app</span>
       </a>
       <div>
         <p>
