@@ -11,7 +11,7 @@ export function Contact(){
       <header>
         <h2>Contact</h2>
         <p>Ready to get started on your project? </p>
-        <p>Contact me now for a Free consultation.</p>
+        <p>Contact me now for a Free Consultation.</p>
       </header>
       <div className="contacts">
         <div>
