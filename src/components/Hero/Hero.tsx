@@ -22,7 +22,7 @@ export function Hero() {
           <h3>Full Stack Developer</h3>
         </div>
         <div  >
-          <p className="small-resume"> 3+ Years of Experience</p>
+          <p className="small-resume"> M.Tech (VTU University Ranker in Design) | 3+ Year of Experience | HTML, CSS, JavaScript, React.Js, Redux, Java, SpringBoot, Node.Js, Python, FastApi, MySQL, Vertica, Oracle, MongoDb, CosmosDb, Azure, GitHub, Jira | SDLC Expert </p>
         </div>
 
 
