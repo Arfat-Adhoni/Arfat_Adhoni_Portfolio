@@ -1,6 +1,7 @@
 import { BrowserRouter } from "react-router-dom"
 import { Container } from "./styles"
 // import div from "react-animate-on-scroll"
+import ArfatPhoto from "../../assets/ArfatPhoto.png";
 import Illustration from "../../assets/illustration.svg"
 import { NavHashLink } from "react-router-hash-link"
 import linkedin from '../../assets/linkedin.svg'
@@ -19,10 +20,16 @@ export function Hero() {
           <h1>Arfat Adhoni</h1>
         </div>
         <div>
-          <h3>Full Stack Developer</h3>
+          <h3>M.Tech (VTU University Ranker in Design) | Full-Stack Developer | Ethical | Mentor  </h3>
+         
+          <h2>Working as Senior Software Engineer at Mercedes-Benz R&D India  </h2>
+          <h3>Proficency in Html, Css, JavaScript, TypeScript, React.Js, Redux, Cypress.io, Java, SpringBoot, Node.Js, Express.Js, Python, FastApi, MySQL, Vertica, Oracle, MongoDb, CosmosDb, Azure, GitHub, SDLC Expert  </h3>
+
         </div>
         <div  >
-          <p className="small-resume"> M.Tech (VTU University Ranker in Design) | 3+ Year of Experience | HTML, CSS, JavaScript, React.Js, Redux, Java, SpringBoot, Node.Js, Python, FastApi, MySQL, Vertica, Oracle, MongoDb, CosmosDb, Azure, GitHub, Jira | SDLC Expert </p>
+        <p>Founder & Director of IT-CGC </p>
+        <br></br>
+        <br></br>
         </div>
 
 
@@ -69,7 +76,7 @@ export function Hero() {
 
       <div className="hero-image">
         <div>
-          <img src={Illustration} alt="Ilustração" />
+          <img src={ArfatPhoto} alt="Ilustração" />
         </div>
       </div>
      
