@@ -2,7 +2,6 @@ import { AwardContainer } from "../Awards_Achievements/style";
 import externalLink from "../../assets/external-link.svg";
 // import ScrollAnimation from "react-animate-on-scroll";
 
-import Arfat_Mtech_RankImg  from "../../assets/AwardsImgs/Arfat_Mtech_RankImg.jpg";
 
 
 const AwardsInfo = [
@@ -10,21 +9,21 @@ const AwardsInfo = [
         title: "M.Tech (VTU University 3rd Rank in Design) ",
         date: "Sept 2021",
         description: "I was award for 3rd Rank to University in M.Tech (Machine Design) from Visveshwarya Technological University Belgaum Karnataka",
-        AwardImage : Arfat_Mtech_RankImg
+
       },
 
       {
         title: "Volunteers Lead in WEBXPLORE 2022",
         date: "Nov 2022",
         description: "Volunteers Lead in WEBXPLORE 2022 to achieve the Record India Books of Record for successfully developing & hosting website on real-time severs and contributing to successful record attempt in completion of MAXIMUM WEBSITES LAUNCHED IN A SINGLE DAY",
-        AwardImage : ""
+    
       },
 
       {
         title: "BE Project Exhibitions Award",         
         date: "Feb 2019",
         description: "Secured 3rd Rank in Project Exhibition held in Bangalore Institute of Technology, Bangalore in 2019.",
-        AwardImage : ""
+       
       },
     
   
