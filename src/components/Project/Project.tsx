@@ -4,9 +4,16 @@ import externalLink from "../../assets/external-link.svg";
 
 const projects = [
   {
+    title: "Unikey - EMU (Engineering Mode Unlock)",
+    date: "Feb 2024 - Present",
+    description: "Full Stack Development - Generating Certificates to Unlock Engineer Mode of Ecu of Cars, Roles & Responsibility : Developing And Understanding End to End Product, Front End UI Development, Validation using Regular Expressions for Ecu Types, Design & Developing Functional Component in Azure through OneApi, Azure and Terraform Scripts. Creating FastApi using Python to Generate Certificate for Engineering Mode Unlock of ECU in Cars.",
+    technologies: ["Html, Css, Javascript, React.Js, Python, FastApi, Terraform, Azure, CosmosDb, Sonar , BlackDuck "],
+  },
+
+  {
     title: "Unikey - SSH",
     date: "Jan 2024 - Present",
-    description: "Developing UI and Validating as per Requirement using React.Js with Typescript, Developing Restful Api using FastApi using Python3.9 with OneApi using Azure Function App for its Web Services using CosmosDb.Integration of Api with FrontEnd using Axios to meet product Requirement.Unit Testing with Cypress for FrontEnd Development. " ,
+    description: "UI Development: Utilizing React.js with TypeScript to craft responsive and intuitive user interfaces that meet project requirements. API Development: Leveraging FastAPI with Python 3.9 to create robust and efficient RESTful APIs. Integration with Azure Function App for seamless web service deployment, backed by CosmosDB for data storage. Integration: Seamless integration of APIs with the front end using Axios to ensure smooth communication and functionality alignment with product requirements. Unit Testing: Employing Cypress for comprehensive unit testing of front-end development to ensure quality and reliability. " ,
     technologies: ["TypeScript", "ReactJs", "Python", "FastApi", "Terraform", "Azure", "Gradle", "GitHub CosmosDb"],
   },
   {
@@ -69,7 +76,7 @@ const projects = [
 export function Project() {
   return (
     <Container id="project">
-    <h2>My Projects</h2>
+    <h2>My Industrial Projects</h2>
     <div className="projects">
       {projects.map((project, index) => (
         <div key={index} className="project">
