@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import ArfatPhoto from "../../assets/ArfatPhoto.png";
+// import ArfatPhoto from "../../assets/ArfatPhoto.png";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
 import jsIcon from "../../assets/js-icon.svg";

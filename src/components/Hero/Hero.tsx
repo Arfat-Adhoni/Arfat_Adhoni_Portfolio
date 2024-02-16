@@ -2,7 +2,7 @@ import { BrowserRouter } from "react-router-dom"
 import { Container } from "./styles"
 // import div from "react-animate-on-scroll"
 import ArfatPhoto from "../../assets/ArfatPhoto.png";
-import Illustration from "../../assets/illustration.svg"
+// import Illustration from "../../assets/illustration.svg"
 import { NavHashLink } from "react-router-hash-link"
 import linkedin from '../../assets/linkedin.svg'
 import githubIcon from '../../assets/github.svg'
