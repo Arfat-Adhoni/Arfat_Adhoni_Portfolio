@@ -63,7 +63,16 @@ export const Container = styled.section`
     }
     
     .hero-image{
-      display: none;
+      display: flex;
+       max-width: 100%;
+      img{
+        margin-top: 2rem;
+        width: 100%;
+        filter: grayscale(0);
+        transition: filter 0.5s;
+        &:hover{
+          filter: grayscale(0);
+        }
     }
   }
 

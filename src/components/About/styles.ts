@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.section`
-  margin-top: 12rem;
+  margin-top: 7rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
@@ -81,7 +81,7 @@ export const Container = styled.section`
       justify-content: center;
     }
     .about-image{
-      display: flex;
+      display: none;
       max-width: 100%;
       img{
         margin-top: 2rem;
