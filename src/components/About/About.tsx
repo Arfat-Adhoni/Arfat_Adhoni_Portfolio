@@ -20,7 +20,7 @@ export function About() {
         </ div>
         < div >
         <p>
-          Working as Senior Software Engineer at Mercedes-Benz R&D India,Bangalore I bring over 3+ years of experience as a Full-Stack Developer. Holding an M.Tech degree with a university ranking in Design, I am well-versed in a wide array of technologies, including HTML, CSS, JavaScript, JSP, TypeScript, React.JS, Next.JS, Cypress, Java, SpringBoot, Node.JS, Express.JS, Python, FastAPI, MySQL, Vertica, Oracle, CosmoDB, MongoDB, Azure, and Jira. My expertise extends to being an SDLC expert, ensuring a holistic approach to software development. I am passionate about leveraging cutting-edge technologies to drive innovation and excellence in every project I undertake.
+          Working as Senior Software Engineer at Mercedes-Benz R&D India,Bangalore I bring over 5+ years of experience as a Full-Stack Developer. Holding an M.Tech degree with a university ranking in Design, I am well-versed in a wide array of technologies, including HTML, CSS, JavaScript, JSP, TypeScript, React.JS, Next.JS, Cypress, Java, SpringBoot, Node.JS, Express.JS, Python, FastAPI, MySQL, Vertica, Oracle, CosmoDB, MongoDB, Azure, and Jira. My expertise extends to being an SDLC expert, ensuring a holistic approach to software development. I am passionate about leveraging cutting-edge technologies to drive innovation and excellence in every project I undertake.
          </p>
         </ div>
 
