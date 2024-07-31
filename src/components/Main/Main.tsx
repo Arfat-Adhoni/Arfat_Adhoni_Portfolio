@@ -262,8 +262,8 @@ export function Main() {
       />
       <Hero></Hero>
       <About></About>
-      <Project></Project>
       <Awards></Awards>
+      <Project></Project>
       <Contact></Contact>
     </Container>
   );
